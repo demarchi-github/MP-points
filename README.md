@@ -6,5 +6,7 @@ rule exact on bivariate polynomials of degree 2n.
 
 The script Leb_MP.m has to be run. 
 For the help, in the Command Window of Matlab, simply type
->> help Leb_MP
+
+help Leb_MP
+
 and you will get the necessary information on what does the script.
