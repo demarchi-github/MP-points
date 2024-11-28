@@ -1,7 +1,7 @@
 % ----------------------------------------------------------------------
-% Compute the Lebesgue constant for Morrow-Patterson points evaluating it
-% on grid of equally spaced or Chebyshev-Lobatto. 
-% The code produce some plots, in particular the growth of the constant
+% Compute the Lebesgue constant for Extended Morrow-Patterson points evaluating it
+% on a grid of equally spaced or Chebyshev-Lobatto. 
+% The code produces some plots, in particular, the growth of the constant
 % on varying the polynomial degree from 2 to 30 (on the evens), comparing
 % the results with those of the best known growth, (0.7n+1)^2.
 %
